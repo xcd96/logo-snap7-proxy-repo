@@ -5,7 +5,6 @@ description: "Proxy zur Steuerung LOGO! 0BA7 via Snap7 und MQTT"
 arch:
   - aarch64
   - armv7
-  - armhf
   - amd64
   - i386
 startup: services
